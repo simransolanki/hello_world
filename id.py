@@ -1,0 +1,8 @@
+name=input("Enter your name : ")
+roll_no=input("Enter your roll no : ")
+clas=input("Enter your class : ")
+email=input("Enter your email Id : ")
+print("Name : ",name)
+print("Roll no : ",roll_no)
+print("Class : ",clas)
+print("Email Id : ",email)
